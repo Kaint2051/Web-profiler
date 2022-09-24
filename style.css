@@ -55,7 +55,11 @@ body{
   line-height: 0px;
   margin: 10px 0;
 }
-
+.content{
+  color: #fff;
+  font-size: 17px;
+  margin-top: 10px;
+  padding: 1px 20px 10px 20px;
 }
 .content .buttons{
   display: flex;
